@@ -1,4 +1,4 @@
-# 石头剪刀布小游戏【前端小项目】 SNAPSHOT 1.0
+# 石头剪刀布小游戏【前端小项目】
 HTML/CSS/JavaScript 静态小游戏
 部分资源来自网络
 ### SNAPSHOT 1.0 : 
